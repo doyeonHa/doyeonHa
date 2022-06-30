@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=30&section=header&text=안녕하세요&fontSize=12)
-
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
