@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hadoyeon&animation=fadeIn&height=300)
+![header](https://capsule-render.vercel.app/api?text=Doyeon's GitHub&animation=fadeIn&height=300)
 
 
 ## ✨Hadoyeon ✨
